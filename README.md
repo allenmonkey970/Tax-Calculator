@@ -4,8 +4,7 @@ This repository contains a Python script that calculates the tax owed based on t
 
 ## Description
 
-The Tax Calculator helps users to quickly determine their taxable salary and the amount of federal tax they owe. The calculator takes into consideration the standard tax deduction and applies the current tax rates to different income brackets. This is a handy tool for anyone looking to estimate their federal tax liability.
-
+The Tax Calculator helps users to quickly determine their taxable salary and the amount of federal tax they owe. The calculator takes into consideration the standard tax deduction and applies the current tax rates to different income brackets. 
 ## Features
 
 - Input: User's gross annual salary
