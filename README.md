@@ -47,7 +47,7 @@ Tax owed: $4,074.00
 
 ## Disclaimer
 
-This tax calculator is intended for informational purposes only and does not constitute financial or legal advice. The accuracy of the tax calculations is not guaranteed, and users are encouraged to consult a professional tax advisor for personalized advice. The creator of this repository does not take any responsibility for the use of this tool or any consequences arising from its use.
+This tax calculator is intended as a project for a math class and does not constitute financial or legal advice. The accuracy of the tax calculations is not guaranteed, and users are encouraged to consult a professional tax advisor for personalized advice. The creator of this repository does not take any responsibility for the use of this tool or any consequences arising from its use.
 
 ## Contributing
 
